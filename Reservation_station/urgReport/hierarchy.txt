@@ -1,0 +1,149 @@
+Design Hierarchy
+
+
+----------------
+SCORE  LINE   COND   TOGGLE FSM    BRANCH            
+ 82.41  99.73  80.39  49.51 --     100.00 superrs_tb 
+  
+  ----------------
+  SCORE  LINE   COND   TOGGLE FSM    BRANCH     
+   82.43 100.00  80.39  49.31 --     100.00 DUT 
+    
+    ----------------
+    SCORE  LINE   COND   TOGGLE FSM    BRANCH           
+     82.36 100.00  80.39  49.04 --     100.00 rs_bank_0 
+      
+      ----------------
+      SCORE  LINE   COND   TOGGLE FSM    BRANCH            
+       95.95 --     --      95.95 --     --     alu_select 
+        
+        ----------------
+        SCORE  LINE   COND   TOGGLE FSM    BRANCH                     
+        100.00 --     --     100.00 --     --     genblk1.bar[4].top  
+        100.00 --     --     100.00 --     --     genblk1.bar[5].top  
+         83.33 --     --      83.33 --     --     genblk1.bar[6].top  
+        100.00 --     --     100.00 --     --     genblk1.foo[0].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[1].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[2].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[3].base 
+      
+      ----------------
+      SCORE  LINE   COND   TOGGLE FSM    BRANCH                 
+      100.00 --     --     100.00 --     --     dispatch_select 
+        
+        ----------------
+        SCORE  LINE   COND   TOGGLE FSM    BRANCH                     
+        100.00 --     --     100.00 --     --     genblk1.bar[4].top  
+        100.00 --     --     100.00 --     --     genblk1.bar[5].top  
+        100.00 --     --     100.00 --     --     genblk1.bar[6].top  
+        100.00 --     --     100.00 --     --     genblk1.foo[0].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[1].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[2].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[3].base 
+      
+      ----------------
+      SCORE  LINE   COND   TOGGLE FSM    BRANCH                      
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[0].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[1].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[2].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[3].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[4].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[5].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[6].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[7].rs_entry0 
+      100.00 --     --     100.00 --     --     issue_select         
+        0.00 --     --       0.00 --     --     lsq_select           
+        
+        ----------------
+        SCORE  LINE   COND   TOGGLE FSM    BRANCH                     
+          0.00 --     --       0.00 --     --     genblk1.bar[4].top  
+          0.00 --     --       0.00 --     --     genblk1.bar[5].top  
+          0.00 --     --       0.00 --     --     genblk1.bar[6].top  
+          0.00 --     --       0.00 --     --     genblk1.foo[0].base 
+          0.00 --     --       0.00 --     --     genblk1.foo[1].base 
+          0.00 --     --       0.00 --     --     genblk1.foo[2].base 
+          0.00 --     --       0.00 --     --     genblk1.foo[3].base 
+      
+      ----------------
+      SCORE  LINE   COND   TOGGLE FSM    BRANCH             
+       95.95 --     --      95.95 --     --     mult_select 
+        
+        ----------------
+        SCORE  LINE   COND   TOGGLE FSM    BRANCH                     
+        100.00 --     --     100.00 --     --     genblk1.bar[4].top  
+        100.00 --     --     100.00 --     --     genblk1.bar[5].top  
+         83.33 --     --      83.33 --     --     genblk1.bar[6].top  
+        100.00 --     --     100.00 --     --     genblk1.foo[0].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[1].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[2].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[3].base 
+    
+    ----------------
+    SCORE  LINE   COND   TOGGLE FSM    BRANCH           
+     82.36 100.00  80.39  49.04 --     100.00 rs_bank_1 
+      
+      ----------------
+      SCORE  LINE   COND   TOGGLE FSM    BRANCH            
+       95.95 --     --      95.95 --     --     alu_select 
+        
+        ----------------
+        SCORE  LINE   COND   TOGGLE FSM    BRANCH                     
+        100.00 --     --     100.00 --     --     genblk1.bar[4].top  
+        100.00 --     --     100.00 --     --     genblk1.bar[5].top  
+         83.33 --     --      83.33 --     --     genblk1.bar[6].top  
+        100.00 --     --     100.00 --     --     genblk1.foo[0].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[1].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[2].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[3].base 
+      
+      ----------------
+      SCORE  LINE   COND   TOGGLE FSM    BRANCH                 
+      100.00 --     --     100.00 --     --     dispatch_select 
+        
+        ----------------
+        SCORE  LINE   COND   TOGGLE FSM    BRANCH                     
+        100.00 --     --     100.00 --     --     genblk1.bar[4].top  
+        100.00 --     --     100.00 --     --     genblk1.bar[5].top  
+        100.00 --     --     100.00 --     --     genblk1.bar[6].top  
+        100.00 --     --     100.00 --     --     genblk1.foo[0].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[1].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[2].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[3].base 
+      
+      ----------------
+      SCORE  LINE   COND   TOGGLE FSM    BRANCH                      
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[0].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[1].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[2].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[3].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[4].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[5].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[6].rs_entry0 
+       81.78 100.00  80.39  46.74 --     100.00 genblk1[7].rs_entry0 
+      100.00 --     --     100.00 --     --     issue_select         
+        0.00 --     --       0.00 --     --     lsq_select           
+        
+        ----------------
+        SCORE  LINE   COND   TOGGLE FSM    BRANCH                     
+          0.00 --     --       0.00 --     --     genblk1.bar[4].top  
+          0.00 --     --       0.00 --     --     genblk1.bar[5].top  
+          0.00 --     --       0.00 --     --     genblk1.bar[6].top  
+          0.00 --     --       0.00 --     --     genblk1.foo[0].base 
+          0.00 --     --       0.00 --     --     genblk1.foo[1].base 
+          0.00 --     --       0.00 --     --     genblk1.foo[2].base 
+          0.00 --     --       0.00 --     --     genblk1.foo[3].base 
+      
+      ----------------
+      SCORE  LINE   COND   TOGGLE FSM    BRANCH             
+       95.95 --     --      95.95 --     --     mult_select 
+        
+        ----------------
+        SCORE  LINE   COND   TOGGLE FSM    BRANCH                     
+        100.00 --     --     100.00 --     --     genblk1.bar[4].top  
+        100.00 --     --     100.00 --     --     genblk1.bar[5].top  
+         83.33 --     --      83.33 --     --     genblk1.bar[6].top  
+        100.00 --     --     100.00 --     --     genblk1.foo[0].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[1].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[2].base 
+        100.00 --     --     100.00 --     --     genblk1.foo[3].base 
+

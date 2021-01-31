@@ -1,0 +1,426 @@
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-1_Full64; Runtime version N-2017.12-SP2-1_Full64;  Nov 13 15:38 2020
+
+ VCS Coverage Metrics Release N-2017.12-SP2-1_Full64 Copyright (c) 1991-2017 by Synopsys Inc.
+################ Timd:150 icache reset information ###################
+ Imem2proc_response:0    Imem2proc_data:0    Imem2proc_tag:0
+ proc2Icache_addr:0
+ proc2Imem_command:0    proc2Imem_addr:0
+ Icache_data_out:x    Icache_valid_out:0
+###################################################################
+
+################ Timd:150 icache DEBUG information ###################
+ current_mem_tag:0
+ changed_addr:1
+ Icache_wr_en:0
+ cachemem_valid:0
+ waiting_valid:0
+###################################################################
+
+############# Time:150 waiting tag ##############
+head:0   tail:0
+addr_waiting[0]:0   addr_waiting_tag[0]:0
+addr_waiting[1]:0   addr_waiting_tag[1]:0
+addr_waiting[2]:0   addr_waiting_tag[2]:0
+addr_waiting[3]:0   addr_waiting_tag[3]:0
+addr_waiting[4]:0   addr_waiting_tag[4]:0
+addr_waiting[5]:0   addr_waiting_tag[5]:0
+addr_waiting[6]:0   addr_waiting_tag[6]:0
+addr_waiting[7]:0   addr_waiting_tag[7]:0
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:450 icache data information ###################
+ Imem2proc_response:1    Imem2proc_data:0    Imem2proc_tag:0
+ proc2Icache_addr:8
+ proc2Imem_command:0    proc2Imem_addr:8
+ Icache_data_out:x    Icache_valid_out:0
+###################################################################
+
+################ Timd:450 icache DEBUG information ###################
+ current_mem_tag:0
+ changed_addr:1
+ Icache_wr_en:0
+ cachemem_valid:0
+ waiting_valid:0
+###################################################################
+
+############# Time:450 waiting tag ##############
+head:0   tail:0
+addr_waiting[0]:0   addr_waiting_tag[0]:0
+addr_waiting[1]:0   addr_waiting_tag[1]:0
+addr_waiting[2]:0   addr_waiting_tag[2]:0
+addr_waiting[3]:0   addr_waiting_tag[3]:0
+addr_waiting[4]:0   addr_waiting_tag[4]:0
+addr_waiting[5]:0   addr_waiting_tag[5]:0
+addr_waiting[6]:0   addr_waiting_tag[6]:0
+addr_waiting[7]:0   addr_waiting_tag[7]:0
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:550 icache data information ###################
+ Imem2proc_response:2    Imem2proc_data:0    Imem2proc_tag:0
+ proc2Icache_addr:8
+ proc2Imem_command:1    proc2Imem_addr:16
+ Icache_data_out:x    Icache_valid_out:0
+###################################################################
+
+################ Timd:550 icache DEBUG information ###################
+ current_mem_tag:1
+ changed_addr:0
+ Icache_wr_en:0
+ cachemem_valid:0
+ waiting_valid:0
+###################################################################
+
+############# Time:550 waiting tag ##############
+head:0   tail:1
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:0   addr_waiting_tag[1]:0
+addr_waiting[2]:0   addr_waiting_tag[2]:0
+addr_waiting[3]:0   addr_waiting_tag[3]:0
+addr_waiting[4]:0   addr_waiting_tag[4]:0
+addr_waiting[5]:0   addr_waiting_tag[5]:0
+addr_waiting[6]:0   addr_waiting_tag[6]:0
+addr_waiting[7]:0   addr_waiting_tag[7]:0
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:650 icache data information ###################
+ Imem2proc_response:3    Imem2proc_data:0    Imem2proc_tag:0
+ proc2Icache_addr:8
+ proc2Imem_command:1    proc2Imem_addr:24
+ Icache_data_out:x    Icache_valid_out:0
+###################################################################
+
+################ Timd:650 icache DEBUG information ###################
+ current_mem_tag:1
+ changed_addr:0
+ Icache_wr_en:0
+ cachemem_valid:0
+ waiting_valid:0
+###################################################################
+
+############# Time:650 waiting tag ##############
+head:0   tail:2
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:16   addr_waiting_tag[1]:2
+addr_waiting[2]:0   addr_waiting_tag[2]:0
+addr_waiting[3]:0   addr_waiting_tag[3]:0
+addr_waiting[4]:0   addr_waiting_tag[4]:0
+addr_waiting[5]:0   addr_waiting_tag[5]:0
+addr_waiting[6]:0   addr_waiting_tag[6]:0
+addr_waiting[7]:0   addr_waiting_tag[7]:0
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:750 icache data information ###################
+ Imem2proc_response:4    Imem2proc_data:0    Imem2proc_tag:0
+ proc2Icache_addr:8
+ proc2Imem_command:1    proc2Imem_addr:32
+ Icache_data_out:x    Icache_valid_out:0
+###################################################################
+
+################ Timd:750 icache DEBUG information ###################
+ current_mem_tag:1
+ changed_addr:0
+ Icache_wr_en:0
+ cachemem_valid:0
+ waiting_valid:0
+###################################################################
+
+############# Time:750 waiting tag ##############
+head:0   tail:3
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:16   addr_waiting_tag[1]:2
+addr_waiting[2]:24   addr_waiting_tag[2]:3
+addr_waiting[3]:0   addr_waiting_tag[3]:0
+addr_waiting[4]:0   addr_waiting_tag[4]:0
+addr_waiting[5]:0   addr_waiting_tag[5]:0
+addr_waiting[6]:0   addr_waiting_tag[6]:0
+addr_waiting[7]:0   addr_waiting_tag[7]:0
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:850 icache data information ###################
+ Imem2proc_response:5    Imem2proc_data:20    Imem2proc_tag:1
+ proc2Icache_addr:8
+ proc2Imem_command:1    proc2Imem_addr:40
+ Icache_data_out:20    Icache_valid_out:1
+###################################################################
+
+################ Timd:850 icache DEBUG information ###################
+ current_mem_tag:1
+ changed_addr:0
+ Icache_wr_en:1
+ cachemem_valid:0
+ waiting_valid:1
+###################################################################
+
+############# Time:850 waiting tag ##############
+head:0   tail:4
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:16   addr_waiting_tag[1]:2
+addr_waiting[2]:24   addr_waiting_tag[2]:3
+addr_waiting[3]:32   addr_waiting_tag[3]:4
+addr_waiting[4]:0   addr_waiting_tag[4]:0
+addr_waiting[5]:0   addr_waiting_tag[5]:0
+addr_waiting[6]:0   addr_waiting_tag[6]:0
+addr_waiting[7]:0   addr_waiting_tag[7]:0
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:950 icache data information ###################
+ Imem2proc_response:6    Imem2proc_data:21    Imem2proc_tag:2
+ proc2Icache_addr:16
+ proc2Imem_command:0    proc2Imem_addr:48
+ Icache_data_out:21    Icache_valid_out:1
+###################################################################
+
+################ Timd:950 icache DEBUG information ###################
+ current_mem_tag:2
+ changed_addr:1
+ Icache_wr_en:1
+ cachemem_valid:0
+ waiting_valid:1
+###################################################################
+
+############# Time:950 waiting tag ##############
+head:1   tail:5
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:16   addr_waiting_tag[1]:2
+addr_waiting[2]:24   addr_waiting_tag[2]:3
+addr_waiting[3]:32   addr_waiting_tag[3]:4
+addr_waiting[4]:40   addr_waiting_tag[4]:5
+addr_waiting[5]:0   addr_waiting_tag[5]:0
+addr_waiting[6]:0   addr_waiting_tag[6]:0
+addr_waiting[7]:0   addr_waiting_tag[7]:0
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:1050 icache data information ###################
+ Imem2proc_response:7    Imem2proc_data:22    Imem2proc_tag:3
+ proc2Icache_addr:24
+ proc2Imem_command:0    proc2Imem_addr:56
+ Icache_data_out:22    Icache_valid_out:1
+###################################################################
+
+################ Timd:1050 icache DEBUG information ###################
+ current_mem_tag:3
+ changed_addr:1
+ Icache_wr_en:1
+ cachemem_valid:0
+ waiting_valid:1
+###################################################################
+
+############# Time:1050 waiting tag ##############
+head:2   tail:6
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:16   addr_waiting_tag[1]:2
+addr_waiting[2]:24   addr_waiting_tag[2]:3
+addr_waiting[3]:32   addr_waiting_tag[3]:4
+addr_waiting[4]:40   addr_waiting_tag[4]:5
+addr_waiting[5]:48   addr_waiting_tag[5]:6
+addr_waiting[6]:0   addr_waiting_tag[6]:0
+addr_waiting[7]:0   addr_waiting_tag[7]:0
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:1150 icache data information ###################
+ Imem2proc_response:8    Imem2proc_data:23    Imem2proc_tag:4
+ proc2Icache_addr:24
+ proc2Imem_command:0    proc2Imem_addr:64
+ Icache_data_out:22    Icache_valid_out:1
+###################################################################
+
+################ Timd:1150 icache DEBUG information ###################
+ current_mem_tag:4
+ changed_addr:0
+ Icache_wr_en:1
+ cachemem_valid:1
+ waiting_valid:0
+###################################################################
+
+############# Time:1150 waiting tag ##############
+head:3   tail:7
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:16   addr_waiting_tag[1]:2
+addr_waiting[2]:24   addr_waiting_tag[2]:3
+addr_waiting[3]:32   addr_waiting_tag[3]:4
+addr_waiting[4]:40   addr_waiting_tag[4]:5
+addr_waiting[5]:48   addr_waiting_tag[5]:6
+addr_waiting[6]:56   addr_waiting_tag[6]:7
+addr_waiting[7]:0   addr_waiting_tag[7]:0
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:1250 icache data information ###################
+ Imem2proc_response:9    Imem2proc_data:24    Imem2proc_tag:5
+ proc2Icache_addr:24
+ proc2Imem_command:0    proc2Imem_addr:72
+ Icache_data_out:22    Icache_valid_out:1
+###################################################################
+
+################ Timd:1250 icache DEBUG information ###################
+ current_mem_tag:5
+ changed_addr:0
+ Icache_wr_en:1
+ cachemem_valid:1
+ waiting_valid:0
+###################################################################
+
+############# Time:1250 waiting tag ##############
+head:4   tail:8
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:16   addr_waiting_tag[1]:2
+addr_waiting[2]:24   addr_waiting_tag[2]:3
+addr_waiting[3]:32   addr_waiting_tag[3]:4
+addr_waiting[4]:40   addr_waiting_tag[4]:5
+addr_waiting[5]:48   addr_waiting_tag[5]:6
+addr_waiting[6]:56   addr_waiting_tag[6]:7
+addr_waiting[7]:64   addr_waiting_tag[7]:8
+addr_waiting[8]:0   addr_waiting_tag[8]:0
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:1350 icache data information ###################
+ Imem2proc_response:10    Imem2proc_data:25    Imem2proc_tag:6
+ proc2Icache_addr:48
+ proc2Imem_command:0    proc2Imem_addr:80
+ Icache_data_out:25    Icache_valid_out:1
+###################################################################
+
+################ Timd:1350 icache DEBUG information ###################
+ current_mem_tag:6
+ changed_addr:1
+ Icache_wr_en:1
+ cachemem_valid:0
+ waiting_valid:1
+###################################################################
+
+############# Time:1350 waiting tag ##############
+head:5   tail:9
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:16   addr_waiting_tag[1]:2
+addr_waiting[2]:24   addr_waiting_tag[2]:3
+addr_waiting[3]:32   addr_waiting_tag[3]:4
+addr_waiting[4]:40   addr_waiting_tag[4]:5
+addr_waiting[5]:48   addr_waiting_tag[5]:6
+addr_waiting[6]:56   addr_waiting_tag[6]:7
+addr_waiting[7]:64   addr_waiting_tag[7]:8
+addr_waiting[8]:72   addr_waiting_tag[8]:9
+addr_waiting[9]:0   addr_waiting_tag[9]:0
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+################ Timd:1450 icache data information ###################
+ Imem2proc_response:0    Imem2proc_data:0    Imem2proc_tag:0
+ proc2Icache_addr:0
+ proc2Imem_command:0    proc2Imem_addr:0
+ Icache_data_out:x    Icache_valid_out:0
+###################################################################
+
+################ Timd:1450 icache DEBUG information ###################
+ current_mem_tag:7
+ changed_addr:1
+ Icache_wr_en:0
+ cachemem_valid:0
+ waiting_valid:0
+###################################################################
+
+############# Time:1450 waiting tag ##############
+head:6   tail:10
+addr_waiting[0]:8   addr_waiting_tag[0]:1
+addr_waiting[1]:16   addr_waiting_tag[1]:2
+addr_waiting[2]:24   addr_waiting_tag[2]:3
+addr_waiting[3]:32   addr_waiting_tag[3]:4
+addr_waiting[4]:40   addr_waiting_tag[4]:5
+addr_waiting[5]:48   addr_waiting_tag[5]:6
+addr_waiting[6]:56   addr_waiting_tag[6]:7
+addr_waiting[7]:64   addr_waiting_tag[7]:8
+addr_waiting[8]:72   addr_waiting_tag[8]:9
+addr_waiting[9]:80   addr_waiting_tag[9]:10
+addr_waiting[10]:0   addr_waiting_tag[10]:0
+addr_waiting[11]:0   addr_waiting_tag[11]:0
+addr_waiting[12]:0   addr_waiting_tag[12]:0
+addr_waiting[13]:0   addr_waiting_tag[13]:0
+addr_waiting[14]:0   addr_waiting_tag[14]:0
+#################################################
+
+$finish called from file "icache_tb.sv", line 190.
+$finish at simulation time                 1500
+
+---------------------------------------------------------------------------
+VCS Coverage Metrics: during simulation line, cond, FSM, branch, tgl was monitored
+---------------------------------------------------------------------------
+
+ Coverage status: End of All Coverages ...
+
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 150000 ps
+CPU Time:      0.210 seconds;       Data structure size:   0.0Mb
+Fri Nov 13 15:38:33 2020

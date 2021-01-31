@@ -1,0 +1,18 @@
+Design Module List
+
+Total Module Definition Coverage Summary 
+SCORE  LINE   COND   TOGGLE FSM    BRANCH 
+ 83.85  98.85  80.39  56.16 --     100.00 
+
+
+Total modules in report: 7
+-------------------------------------------------------------------------------
+SCORE  LINE   COND   TOGGLE FSM    BRANCH NAME       
+ 57.93 --     --      57.93 --     --     rs_bank    
+ 78.09  98.53 --      57.65 --     --     superrs_tb 
+ 81.78 100.00  80.39  46.74 --     100.00 rs_entry   
+ 89.80 --     --      89.80 --     --     rs_super   
+100.00 --     --     100.00 --     --     pe         
+100.00 --     --     100.00 --     --     ps         
+100.00 --     --     100.00 --     --     ps2        
+

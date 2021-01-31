@@ -1,0 +1,28 @@
+Dashboard
+
+Date: Wed Oct 28 20:17:01 2020
+
+User: rayss
+
+Version: N-2017.12-SP2-1
+Command line: urg -dir simv.vdb -format text 
+
+Number of tests: 1
+
+-------------------------------------------------------------------------------
+Total Coverage Summary 
+SCORE  LINE   COND   TOGGLE FSM    BRANCH 
+ 82.41  99.73  80.39  49.51 --     100.00 
+
+
+-------------------------------------------------------------------------------
+Hierarchical coverage data for top-level instances 
+SCORE  LINE   COND   TOGGLE FSM    BRANCH NAME       
+ 82.41  99.73  80.39  49.51 --     100.00 superrs_tb 
+
+
+-------------------------------------------------------------------------------
+Total Module Definition Coverage Summary 
+SCORE  LINE   COND   TOGGLE FSM    BRANCH 
+ 83.85  98.85  80.39  56.16 --     100.00 
+

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE cov SYSTEM "ucdb_srcinfo.dtd">
+  <srcinfo name="/afs/umich.edu/user/r/a/rayss/Desktop/470_project/group6f20/icache"  >
+    <ucapi_version  major_ver="13"  minor_ver="1"  patch_str="N-2017.12-SP2-1"  />
+      <fileinfo name="icache_sys_defs.svh"  id="0"  />
+      <fileinfo name="icache_mem.sv"  id="1"  />
+      <fileinfo name="icache_controller.sv"  id="2"  />
+      <fileinfo name="icache_top.sv"  id="3"  />
+      <fileinfo name="icache_tb.sv"  id="4"  />
+    </srcinfo>

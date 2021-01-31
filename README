@@ -1,0 +1,9 @@
+
+Working directory: group6f20/PIPELINE_ASSEMBLE
+make assembly first!
+
+Progress:
+    Finished pipeline integration and passed the test of individual instructions.
+	Synthesis done
+    Didn't pass mult_no_lsq, stuck on #27 inst(mul x12, x11, x3 #104 68), debugging.
+	Working on extra features(visual debugger, prefetch, dcache). Other features haven't started(Gshare branch predictor, BTB, LSQ).
